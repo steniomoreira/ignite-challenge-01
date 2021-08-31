@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="to.do src=".github/to.do.jpg" width="100%">
+  <img alt="screenshot src=".github/screenshot.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
